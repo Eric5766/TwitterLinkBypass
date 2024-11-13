@@ -4,7 +4,7 @@
 // @version      2024-04-08
 // @description  Where possible, bypass t.co links on click by taking the actual url from the link tag (The on-hover popup that shows the true url).  Does not work with links like Youtube videos where the destination URL is not stored anywhere client side.
 // @author       https://github.com/Eric5766/
-// @match        *://twitter.com/*
+// @match        *://x.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
